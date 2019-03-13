@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: securityrule
+---
+testFramework: spock
+sourceLanguage: groovy
